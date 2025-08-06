@@ -1,0 +1,88 @@
+# Dependency directories
+/vendor/
+/node_modules/
+
+# Environment files
+.env
+*.env
+
+# Configuration files with credentials
+/config/database.php
+/config/database.secure.php
+
+# Setup files (should be removed in production)
+/setup_config.php
+/setup_database.php
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.sublime-
+
+# Logs
+*.log
+php_errors.log
+
+# Uploaded files and directories
+/assets/uploads/
+
+# Cache
+/cache/
+
+# Session files
+/sess_*
+/sessions/*
+
+# Debug files
+debug.log
+debug.txt
+*.swp
+*.swo
+*.swn
+
+# Backup files
+*.bak
+*.backup
+*.backup*
+*~
+
+# Local development overrides
+local-config.php
+
+# Composer
+composer.lock
+composer.phar
+
+# NPM
+package-lock.json
+yarn.lock
+
+# Build directories
+/build/
+/dist/
+
+# Test coverage
+/coverage/
+
+# Local development
+*.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
