@@ -268,7 +268,12 @@ Mengambil daftar kategori
 Project ini dibuat untuk tujuan pembelajaran. Silakan gunakan dan modifikasi sesuai kebutuhan.
 
 ## 📸 Screenshoot
-![image1](screenshoot/Screenshot from 2025-08-06 22-34-02.png)
+<img width="1920" height="1080" alt="Screenshot from 2025-08-06 22-34-02" src="https://github.com/user-attachments/assets/87894e49-c0e1-4e4e-b31e-57ca24d6d75f" />
+<img width="1920" height="1080" alt="Screenshot from 2025-08-06 22-34-33" src="https://github.com/user-attachments/assets/447e377e-a299-4403-bfc0-6f74e6c4d6bb" />
+<img width="1920" height="1080" alt="Screenshot from 2025-08-06 22-34-55" src="https://github.com/user-attachments/assets/31d4b26c-3148-4697-b465-ae06fbb200c8" />
+<img width="1920" height="1080" alt="Screenshot from 2025-08-06 22-35-09" src="https://github.com/user-attachments/assets/32b29857-0ddb-44e0-8fd7-200a8455c56b" />
+<img width="1920" height="1080" alt="Screenshot from 2025-08-06 22-35-25" src="https://github.com/user-attachments/assets/54da56fe-e49f-47a2-b811-3095df3e37c5" />
+
 
 ## 👨‍💻 Developer
 
